@@ -1,3 +1,4 @@
+#include <Wire.h>
 #include <TCN75A.h>
 
 TCN75A temp;
