@@ -1,0 +1,27 @@
+{
+  "name": "TCN75A",
+  "keywords": "i2c, temperature",
+  "description": "chipKIT Library for the TCN75A temperature sensor on the BasicIO shield",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MajenkoLibraries/TCN75A.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Majenko Technologies",
+      "email": "matt@majenko.co.uk",
+      "url": "http://www.majenko.co.uk",
+      "maintainer": true
+    },
+  ],
+  "dependencies":
+  {
+    "name": "Wire",
+    "frameworks": "chipkit"
+  },
+  "version": "1.0.1",
+  "frameworks": "chipkit",
+  "platforms": "*"
+}
