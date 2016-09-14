@@ -14,7 +14,7 @@
       "email": "matt@majenko.co.uk",
       "url": "http://www.majenko.co.uk",
       "maintainer": true
-    },
+    }
   ],
   "version": "1.0.1",
   "frameworks": "arduino",
