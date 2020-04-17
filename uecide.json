@@ -1,18 +1,1 @@
-{
-    "name": "TCN75A",
-    "provides": "TCN75A.h",
-    "license": "LICENSE.md",
-    "readme": "README.md",
-    "description": "TCN75A I2C temperature sensor",
-    "category": "Sensors",
-    "subcategory": "Environmental",
-    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
-    "version": "1.0.0",
-    "family": "all",
-    "core": "all",
-    "install": {
-        "examples": "/",
-        "TCN75A.cpp": "/",
-        "TCN75A.h": "/"
-    }
-}
+{"name":"TCN75A","provides":"TCN75A.h","license":"LICENSE.md","readme":"README.md","description":"TCN75A I2C temperature sensor","category":"Sensors","subcategory":"Environmental","maintainer":"Matt Jenkins <matt@majenko.co.uk>","version":"1.0.1","family":"all","core":"all","install":{"examples":"\/","library.properties":"\/","src":"\/"}}
